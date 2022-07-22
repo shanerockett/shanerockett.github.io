@@ -1,7 +1,7 @@
 /* navigation-bar */
 
 .navbar-brand{
-  font-family: 'Fredoka One', cursive;
+  font-family: 'Times New Roman', cursive;
   font-weight: 300;
 }
 
@@ -10,7 +10,7 @@
 }
 
 .nav-item{
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Times New Roman', cursive;
   font-size: 1rem;
   font-weight: 600;
   padding-right: 5px;
@@ -30,7 +30,7 @@ text-align: center;
 }
 
 .tagline{
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Times New Roman', cursive;
   font-weight: 800;
   font-size: 2.7rem;
   color: #ffca28;
@@ -92,7 +92,7 @@ text-align: center;
 }
 
 .tagline-2{
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Times New Roman', cursive;
   font-weight: 900;
   font-size: 2.5rem;
   line-height: 2.0;
@@ -101,7 +101,7 @@ text-align: center;
 }
 
 .youreview{
-  font-family: 'Fredoka One', cursive;
+  font-family: 'Times New Roman', cursive;
   font-size: 3rem;
 }
 
@@ -120,7 +120,7 @@ text-align: center;
 }
 
 .styling-button{
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Times New Roman', sans-serif;
   font-size: 1.2rem;
   font-weight: 600;
   color:#e0e0e0;
