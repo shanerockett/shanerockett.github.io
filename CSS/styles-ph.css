@@ -1,11 +1,11 @@
 /* NAVBAR SETTINGS */
 
 .navbar-brand{
-  font-family: 'Fredoka One', cursive;
+  font-family: 'Times New Roman', cursive;
 }
 
 .nav-item{
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Times New Roman', cursive;
   padding-right: 10px;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .DEVICE-NAME{
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Times New Roman', cursive;
   font-size: 1rem;
   font-weight: 600;
 }
@@ -51,7 +51,7 @@
 }
 
 .styling-button{
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Times New Roman', sans-serif;
   font-size: 1.2rem;
   font-weight: 800;
   color:#37474f;
